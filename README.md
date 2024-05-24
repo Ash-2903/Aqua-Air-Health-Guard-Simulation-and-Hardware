@@ -1,6 +1,6 @@
 # Aqua-Air-Health-Guard-Simulation-and-Hardware
 
-The Aqua-Air Health Guard project aims to provide health monitoring. With a focus on water and air quality, this system integrates sensor technologies with the Raspberry Pi Pico microcontroller to collect real-time data on parameters such as pH, turbidity, temperature, MQ9, and MQ135.
+The Aqua-Air Health Guard project aims to provide health monitoring. With a focus on water and air quality, this system integrates sensor technologies with the Raspberry Pi Pico microcontroller to collect real-time data on parameters such as pH, turbidity, temperature, CO, CO2, and NH3.
 
 The file - gasSensors.py consists of python code for the sensors MQ9 and MQ135 along with Raspberry Pi Pico microcontroller.
 We have used Thonny to upload code to the Raspberry Pi Pico and retrieve sensor readings.
